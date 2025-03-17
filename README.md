@@ -1,0 +1,2 @@
+# BSA10_FunctionalRequirements
+Разработка функциональных требований
